@@ -1,5 +1,5 @@
 # Download de arquivos públicos do SUS: atendimentos ambulatoriais (SIA/SUS) e
-# internações hospitalares (SIH/SUS)
+# internações hospitalares (SIH/SUS) por ano
 # Patrick Dias - github.com/diaspv
 
 #Para executar este script no RGui: Arquivo >> Interpretar código fonte R... >> 
